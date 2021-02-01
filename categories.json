@@ -1,6 +1,6 @@
 [{
     "category": "Design & Creativity",
-    "cat_id": "1",
+    "cat_id": 0,
     "cat_icon": "",
     "cat_subcategory": [
         {
@@ -26,97 +26,543 @@
         {
             "sub_name": "Fashion Design",
             "sub_image": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Flyer",
+            "sub_image": "https://images.unsplash.com/photo-1563050860-87d45eaaeabb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGZseWVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Game Design",
+            "sub_image": "https://images.unsplash.com/photo-1535222636729-76586bf52493?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTh8fGdhbWluZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Graphics Design",
+            "sub_image": "https://images.unsplash.com/photo-1506097425191-7ad538b29cef?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+
+        {
+            "sub_name": "Logo Design",
+            "sub_image": "https://images.unsplash.com/photo-1533319417894-6fbb331e5513?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bG9nb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+
+        {
+            "sub_name": "Mobile Design",
+            "sub_image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjN8fG1vYmlsZSUyMGFwcHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Packaging Design",
+            "sub_image": "https://images.unsplash.com/photo-1610963349361-013b92f96014?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHBhY2thZ2UlMjBkZXNpZ258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Product Design",
+            "sub_image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZHVjdCUyMGRlc2lnbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Social Media Design",
+            "sub_image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8c29jaWFsJTIwbWVkaWF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Typographic Design",
+            "sub_image": "https://images.unsplash.com/photo-1446688568582-55ddb4b37cad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjB8fHR5cG9ncmFwaHl8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Video Design",
+            "sub_image": "https://images.unsplash.com/photo-1536240478700-b869070f9279?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dmlkZW8lMjBlZGl0aW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "sub_name": "Web Design",
+            "sub_image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGVzaWdufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
         }
       
     ]
-}, {
-    "category": "Legal & Business",
-    "cat_id": "2",
-    "cat_subcategory": [
-        {
-            "sub_name": "Ads0",
-            "sub_image": "https://images.unsplash.com/photo-1589838017489-9198a27bd040?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YWR2ZXJ0aXNlbWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Architecture & Interior Design0",
-            "sub_image": "https://images.unsplash.com/photo-1532950485351-e055b7bb9763?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJpb3IlMjBkZWNvcmF0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Cake Designer0",
-            "sub_image": "https://images.unsplash.com/photo-1525433019229-a2449628415e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Y2FrZSUyMGRlc2lnbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Card Design",
-            "sub_image": "https://images.unsplash.com/photo-1481011784351-b0227b9f4a80?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fGNhcmQlMjBkZXNpZ258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Database Design",
-            "sub_image": "https://images.unsplash.com/photo-1586772002345-339f8042a777?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2VydmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Fashion Design",
-            "sub_image": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        }
-    ]
 },
-{
-    "category": "Lifestyle",
-    "cat_id": "3",
-    "cat_subcategory": [
-        {
-            "sub_name": "Ads1",
-            "sub_image": "https://images.unsplash.com/photo-1589838017489-9198a27bd040?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YWR2ZXJ0aXNlbWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Architecture & Interior Design1",
-            "sub_image": "https://images.unsplash.com/photo-1532950485351-e055b7bb9763?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJpb3IlMjBkZWNvcmF0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Cake Designer1",
-            "sub_image": "https://images.unsplash.com/photo-1525433019229-a2449628415e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Y2FrZSUyMGRlc2lnbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Card Design",
-            "sub_image": "https://images.unsplash.com/photo-1481011784351-b0227b9f4a80?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fGNhcmQlMjBkZXNpZ258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Database Design",
-            "sub_image": "https://images.unsplash.com/photo-1586772002345-339f8042a777?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2VydmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Fashion Design",
-            "sub_image": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        }
-    ]
-},
-{
-    "category": "Programming & IT",
-    "cat_id": "3",
-    "cat_subcategory": [
-        {
-            "sub_name": "Ads2",
-            "sub_image": "https://images.unsplash.com/photo-1589838017489-9198a27bd040?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YWR2ZXJ0aXNlbWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Architecture & Interior Design2",
-            "sub_image": "https://images.unsplash.com/photo-1532950485351-e055b7bb9763?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJpb3IlMjBkZWNvcmF0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Cake Designer2",
-            "sub_image": "https://images.unsplash.com/photo-1525433019229-a2449628415e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Y2FrZSUyMGRlc2lnbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Card Design",
-            "sub_image": "https://images.unsplash.com/photo-1481011784351-b0227b9f4a80?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fGNhcmQlMjBkZXNpZ258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Database Design",
-            "sub_image": "https://images.unsplash.com/photo-1586772002345-339f8042a777?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2VydmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-            "sub_name": "Fashion Design",
-            "sub_image": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        }
-    ]
-}
+    {
+        "category": "Legal & Business",
+        "cat_id": 1,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Branding Service",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Business Analyst",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Business Consultant",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Business Planner",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Contract Drafter",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Customer Support",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "E-commerce Manager",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Financial Analyst",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Lawyer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Legal Consultant & Researcher",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Market Researcher",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Product Manger",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Project Manager",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Lifestyle",
+        "cat_id": 2,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Arts & Crafts",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Cleaning Service",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Cooks",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Delivery Service",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Driver",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Fashion Designer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Makeup Artists",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Hair Stylist",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Health & Fitness",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Tailoring",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Tutoring",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Programming & IT",
+        "cat_id": 3,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Android Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Animators",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Augmented Reality Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Back-end Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "C Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "C++ Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "C# Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Chatbot Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Chrome Extension Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Coding Lessons",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Cyber-Security & Data Protection",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Data Analyst",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Database",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Desktop Application",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "E-commerce Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Excel Expert",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Front-end Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Forex Trader",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Full Stack Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Game Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "IOS Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Java Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Machine Learning",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Mobile App Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Python Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "SEO",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Shoppify",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "SSL Expert",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Survey",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Support & IT",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Web Designer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Web Developer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Wix",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Wordpress",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Virtual Reality Developer",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Repair & Maintenance",
+        "cat_id": 4,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Electronics Repair",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Laptop Repair",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Phone Repair",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Vehicle Repair & Maintenance",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Sales & Marketing",
+        "cat_id": 5,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Affiliate Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Content Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Display Advertising",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Email Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Influencer's Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Marketing Managers",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Mobile Marketing & Adverts",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Podcast Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Product Manager",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Project Manager",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Sales Manager",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Social Media Advertiser",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Social Media Marketing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "SEM",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "SEO Experts",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Survey",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Website Marketing",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Video & Audio",
+        "cat_id": 6,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "3D Animation",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Ads",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Animation",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Audio Book",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Beat Maker",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Dialogue",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "DJ",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Intro & Outro",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Lyrics",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Music Lessons",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Photographer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Podcast Editing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Promos",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Song Writers",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Sound Making",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Singer & Vocalist",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Subtitles & Caption",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Trailers",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Video Editing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Videography",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Visual Effects",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Voice Over",
+                "sub_image": ""
+            }
+        ]
+    },
+    {
+        "category": "Writing & Translation",
+        "cat_id": 7,
+        "cat_icon": "",
+        "cat_subcategory": [
+            {
+                "sub_name": "Articles & Blog Post",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Book Writing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Creative Writer",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Copywriters",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Ghost Writers",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Language Translator & Writing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Script Writing",
+                "sub_image": ""
+            },
+            {
+                "sub_name": "Speech Writing",
+                "sub_image": ""
+            }
+        ]
+    }
 ]
